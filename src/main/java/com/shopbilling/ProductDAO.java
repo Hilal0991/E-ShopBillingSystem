@@ -1,4 +1,4 @@
-package com.shopbilling.dao;
+package com.shopbilling.legacy;
 
 import com.shopbilling.database.DatabaseManager;
 import com.shopbilling.model.Product;
